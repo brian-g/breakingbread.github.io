@@ -1938,6 +1938,36 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsSetByUser": 0
 		},
+	"\/images\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 454853,
+		"inputAbbreviatedPath": "\/images\/1.jpg",
+		"outputAbbreviatedPath": "\/images\/1.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/androidbadge.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8171,
+		"inputAbbreviatedPath": "\/images\/androidbadge.png",
+		"outputAbbreviatedPath": "\/images\/androidbadge.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/appstorebadge.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3394,
+		"inputAbbreviatedPath": "\/images\/appstorebadge.png",
+		"outputAbbreviatedPath": "\/images\/appstorebadge.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/background - Copy.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1948,6 +1978,16 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/background reject.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.27066e+06,
+		"inputAbbreviatedPath": "\/images\/background reject.jpg",
+		"outputAbbreviatedPath": "\/images\/background reject.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/background.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1955,16 +1995,6 @@
 		"initialSize": 454853,
 		"inputAbbreviatedPath": "\/images\/background.jpg",
 		"outputAbbreviatedPath": "\/images\/background.jpg",
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/background1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 33399,
-		"inputAbbreviatedPath": "\/images\/background1.jpg",
-		"outputAbbreviatedPath": "\/images\/background1.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -1998,6 +2028,16 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/IMG_0307.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5.49350e+06,
+		"inputAbbreviatedPath": "\/images\/IMG_0307.jpg",
+		"outputAbbreviatedPath": "\/images\/IMG_0307.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/meal.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2018,6 +2058,76 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/NY-mother-and-daughter.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.60226e+06,
+		"inputAbbreviatedPath": "\/images\/NY-mother-and-daughter.jpg",
+		"outputAbbreviatedPath": "\/images\/NY-mother-and-daughter.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/reject.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9194,
+		"inputAbbreviatedPath": "\/images\/reject.jpg",
+		"outputAbbreviatedPath": "\/images\/reject.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/rejected\/background.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 130161,
+		"inputAbbreviatedPath": "\/images\/rejected\/background.jpg",
+		"outputAbbreviatedPath": "\/images\/rejected\/background.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/rejected\/background1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33399,
+		"inputAbbreviatedPath": "\/images\/rejected\/background1.jpg",
+		"outputAbbreviatedPath": "\/images\/rejected\/background1.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/rejected\/background4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 650404,
+		"inputAbbreviatedPath": "\/images\/rejected\/background4.jpg",
+		"outputAbbreviatedPath": "\/images\/rejected\/background4.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/rejected\/background5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 146192,
+		"inputAbbreviatedPath": "\/images\/rejected\/background5.jpg",
+		"outputAbbreviatedPath": "\/images\/rejected\/background5.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/sarah-fragoso-and-family-cooking.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 144119,
+		"inputAbbreviatedPath": "\/images\/sarah-fragoso-and-family-cooking.jpg",
+		"outputAbbreviatedPath": "\/images\/sarah-fragoso-and-family-cooking.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/skylar.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2025,6 +2135,16 @@
 		"initialSize": 27874,
 		"inputAbbreviatedPath": "\/images\/skylar.jpg",
 		"outputAbbreviatedPath": "\/images\/skylar.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/wpstorebadge.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2049,
+		"inputAbbreviatedPath": "\/images\/wpstorebadge.png",
+		"outputAbbreviatedPath": "\/images\/wpstorebadge.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -2239,6 +2359,16 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/Scripts\/init.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Scripts\/init.js",
+		"outputAbbreviatedPath": "\/Scripts\/min\/init-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/Scripts\/jquery-1.10.2.intellisense.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -2305,6 +2435,16 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Scripts\/knockout.validation.js",
 		"outputAbbreviatedPath": "\/Scripts\/min\/knockout.validation-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Scripts\/min\/init-ck.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Scripts\/min\/init-ck.js",
+		"outputAbbreviatedPath": "\/Scripts\/min\/min\/init-ck-ck.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
@@ -2464,7 +2604,7 @@
 	"coffeeMinifyOutput": 1,
 	"coffeeOutputStyle": 0,
 	"coffeeSyntaxCheckerStyle": 1,
-	"externalServerAddress": "http:\/\/localhost",
+	"externalServerAddress": "http:\/\/breakingbread.co",
 	"externalServerPreviewPathAddition": "",
 	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
 	"hamlAutoOutputPathRelativePath": "",
