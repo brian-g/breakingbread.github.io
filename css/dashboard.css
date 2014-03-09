@@ -1,0 +1,18 @@
+.profile {
+  float: left;
+  padding: 20px;
+  text-align: center;
+}
+.profile img {
+  display: block;
+  height: 160px;
+  width: 160px;
+  border-radius: 80px;
+}
+.profile ul {
+  margin-top: .25in;
+}
+.content {
+  float: left;
+  width: 80%;
+}

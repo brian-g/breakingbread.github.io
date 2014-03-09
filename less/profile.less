@@ -1,0 +1,49 @@
+// Fix jQuery UI
+
+.ui-widget-header,
+.ui-widget-content {
+	border: none;
+	background: none;
+}
+
+.ui-state-active {
+	background: none;
+	background-color: red;
+}
+
+.ui-state-default {
+	background: none;
+}
+
+.field {
+	margin-bottom: 20px;
+}
+
+.label {
+	display: inline-block;
+	color: #333;
+	width: 200px;
+}
+
+textarea,
+input {
+	font-family: @bodyFontFamily;
+	padding: 5px;
+	border: 2px solid #aaa;
+	border-radius:2px;
+	width: 30%;
+	
+	&[disabled="disabled"] {
+		background-color: #ccc;
+		border-color: #ccc;
+	}
+}
+
+input[type=radio] {
+	width: auto;
+	font-size: 75%;
+}
+
+fieldset {
+	border: none;
+}
