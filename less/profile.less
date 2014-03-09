@@ -23,15 +23,21 @@
 	display: inline-block;
 	color: #333;
 	width: 200px;
+	text-align: right;
 }
 
 textarea,
 input {
 	font-family: @bodyFontFamily;
-	padding: 5px;
+	padding: 10px;
 	border: 2px solid #aaa;
 	border-radius:2px;
 	width: 30%;
+	font-size: 60%;
+		
+	&:focus {
+//		border-color: @c1;
+	}
 	
 	&[disabled="disabled"] {
 		background-color: #ccc;

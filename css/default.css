@@ -596,13 +596,15 @@ a:hover {
   font-size: 200%;
 }
 .table {
-  border: 1px solid #f5f1ea;
   text-align: left;
   width: 90%;
 }
 .table .row {
   padding: 10px;
-  border-bottom: 1px solid #f5f1ea;
+  border-bottom: 1px solid #f15f51;
+}
+.table .row:last-child {
+  border-bottom: none;
 }
 .table .name {
   display: inline-block;
@@ -617,10 +619,20 @@ a:hover {
 .table .address {
   display: block;
 }
+.table .address::after {
+  font-family: 'fontello';
+  content: '\e805';
+  margin-left: 10px;
+}
 .profile {
   float: left;
   padding: 20px;
   text-align: center;
+  background-color: #f5f1ea;
+  position: absolute;
+  top: 50px;
+  left: 0;
+  bottom: 0;
 }
 .profile img {
   display: block;
@@ -633,7 +645,7 @@ a:hover {
   margin-top: .25in;
 }
 .content {
-  float: left;
+  margin-left: 250px;
   width: 80%;
 }
 .ui-widget-header,
@@ -655,14 +667,16 @@ a:hover {
   display: inline-block;
   color: #333;
   width: 200px;
+  text-align: right;
 }
 textarea,
 input {
   font-family: 'Bree', Verdana, sans-serif;
-  padding: 5px;
+  padding: 10px;
   border: 2px solid #aaa;
   border-radius: 2px;
   width: 30%;
+  font-size: 60%;
 }
 textarea[disabled="disabled"],
 input[disabled="disabled"] {

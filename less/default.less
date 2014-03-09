@@ -274,13 +274,16 @@ a {
 
 .table {
 
-	border: 1px solid @c5;
 	text-align: left;
 	width: 90%;
 	
 	.row {
 		padding: 10px;
-		border-bottom: 1px solid @c5;
+		border-bottom: 1px solid @c1;
+		
+		&:last-child {
+			border-bottom: none;
+		}
 	}
 	
 	.name {
@@ -297,6 +300,12 @@ a {
 	
 	.address {
 		display: block;
+		
+		&::after {
+			font-family: 'fontello';
+			content: @symbolMap;
+			margin-left: 10px;
+		}
 	}
 }
 
