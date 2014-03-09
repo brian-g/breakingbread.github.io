@@ -1988,16 +1988,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/background.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 454853,
-		"inputAbbreviatedPath": "\/images\/background.jpg",
-		"outputAbbreviatedPath": "\/images\/background.jpg",
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/breakingbread.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2078,6 +2068,16 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/rejected\/background copy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 454853,
+		"inputAbbreviatedPath": "\/images\/rejected\/background copy.jpg",
+		"outputAbbreviatedPath": "\/images\/rejected\/background copy.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/rejected\/background.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2085,16 +2085,6 @@
 		"initialSize": 130161,
 		"inputAbbreviatedPath": "\/images\/rejected\/background.jpg",
 		"outputAbbreviatedPath": "\/images\/rejected\/background.jpg",
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/rejected\/background1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 33399,
-		"inputAbbreviatedPath": "\/images\/rejected\/background1.jpg",
-		"outputAbbreviatedPath": "\/images\/rejected\/background1.jpg",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
