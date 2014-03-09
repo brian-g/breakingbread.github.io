@@ -439,15 +439,15 @@ button[disabled="disabled"],
 .button[disabled="disabled"] {
   background-color: #ddd;
 }
-li {
-  list-style-type: none;
-}
 h1,
 h2,
 h3,
 h4,
 h5 {
-  font-family: 'Bree', sans-serif;
+  margin: 10px;
+}
+li {
+  list-style-type: none;
 }
 body {
   font-family: 'Bree', Verdana, sans-serif;
@@ -459,15 +459,23 @@ body header {
   background-size: cover;
   color: black;
   text-align: center;
-  padding: .25in;
 }
 body header button,
 body header .button {
-  font-size: 150%;
+  font-size: 100%;
   margin-right: 20px;
+  white-space: nowrap;
 }
 body header img {
   width: 18em;
+}
+body header .tagline {
+  background-color: rgba(255, 255, 255, 0.5);
+  font-size: 200%;
+  padding-bottom: 40px;
+}
+body header .tagline h2 {
+  margin-bottom: 40px;
 }
 section {
   padding: .25in;
@@ -487,15 +495,16 @@ a:hover {
   font-weight: normal;
   text-shadow: 1px 1px 6px #333333;
 }
-.tagline {
-  font-size: 3em;
-  font-family: 'Bree', Verdana, sans-serif;
-}
 #whatwedo {
   background-color: #f5d66a;
 }
 #whatwedo h2 {
   font-size: 200%;
+}
+#whatwedo h2:before {
+  font-family: 'fontello';
+  content: '\e80a';
+  margin-right: 10px;
 }
 #whatwedo li {
   width: 40%;
@@ -525,6 +534,12 @@ a:hover {
 }
 #getapp {
   background-color: #43e0be;
+}
+#getapp h2:before {
+  font-family: 'fontello';
+  content: '\e804';
+  margin-right: 10px;
+  font-size: 150%;
 }
 #getapp li {
   display: inline-block;

@@ -69,12 +69,12 @@ button,
 	}
 }
 
-li { 
-	list-style-type: none;
+h1, h2, h3, h4, h5 {
+	margin:10px;
 }
 
-h1, h2, h3, h4, h5 {
-	font-family: @headingFontFamily;
+li { 
+	list-style-type: none;
 }
 
 body {
@@ -88,16 +88,28 @@ body {
 		background-size:cover;
 		color: black;
 		text-align: center;
-		padding: .25in;
+		
 		
 		button,
 		.button {
-			font-size: 150%;
+			font-size: 100%;
 			margin-right: 20px;
+			white-space: nowrap;
 		}
 		
 		img {
 			width: 18em;
+		}
+		
+		.tagline {
+			background-color: fade(white, 50%);
+			font-size: 200%;
+			padding-bottom: 40px;
+			
+			h2 { 
+				margin-bottom: 40px;
+			}
+			
 		}
 	}
 }
@@ -125,10 +137,6 @@ a {
 	text-shadow: 1px 1px 6px @shadowColor;
 }
 
-.tagline {
-	font-size: 3em;
-	font-family: @bodyFontFamily;
-}
 
 #whatwedo {
 	background-color: @c6;
@@ -136,6 +144,12 @@ a {
 
 	h2 { 
 		font-size: 200%;
+		
+		&:before {
+			font-family: 'fontello';
+			content: @symbolFood;
+			margin-right: 10px;
+		}
 	}
 	
 	li {
@@ -171,6 +185,13 @@ a {
 
 #getapp {
 	background-color: @c3;
+	
+	h2:before {
+		font-family: 'fontello';
+		content: @symbolGear;
+		margin-right: 10px;
+		font-size: 150%;
+	}
 	
 	li {
 		display: inline-block;
